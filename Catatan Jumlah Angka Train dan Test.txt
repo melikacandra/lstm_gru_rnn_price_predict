@@ -1,0 +1,10 @@
+Catatan Jumlah Angka Train dan Test IBM
+
+train = 2769
+test = 251
+
+test = 311 = 251 +60
+
+
+initial sequence = 2708 = 2769 -61
+
