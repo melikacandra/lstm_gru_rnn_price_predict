@@ -1,4 +1,4 @@
-# Perbandingan Kinerja LSTM, GRU, dan RNN untuk Kasus Prediksi Harga Saham pada Kasus Emiten Bluechip Indonesia
+# Perbandingan Kinerja LSTM, GRU, dan RNN untuk Prediksi Harga Saham pada Kasus Emiten Bluechip Indonesia
 
 ## Deskripsi Folder:
 - catatan: berisi file tempat pengolahan secara manual dan catatan disimpan
