@@ -5,6 +5,7 @@
 - dokumen: dokumen hasil unduhan
 - program aplikasi: program yang benar-benar telah diaplikasikan
 - program contoh: program untuk mencoba berdasarkan sumbernya
+- data-awal: data hasil pengambilan data dari website idx.co.id
 
 ## Progress
 
