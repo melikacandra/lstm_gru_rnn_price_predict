@@ -5,6 +5,7 @@
 - document: dokumen hasil unduhan
 - code_benchmark_test: program yang benar-benar telah diaplikasikan
 - code_benchmark: program untuk mencoba berdasarkan sumbernya
+- code_main: kode utama yang digunakan
 - data_before_prep: data hasil pengambilan data dari website idx.co.id
 - data_after_prep: data yang sudah siap digunakan
 ## Progress
@@ -14,3 +15,4 @@
 - 31/07/2024  | 07.00 - 08.30 | Download emiten 2020-2021
 - 02/08/2024  | 02.00 - 03.00 | Download emiten Jun - Jul 24, upload data 2020 - Juli 2024 
 - 02/08/2024  | 16.00 - 20.00 | Penyiapan data
+- 06/08/2024  | 22.00 - 00.00 | EDA data
