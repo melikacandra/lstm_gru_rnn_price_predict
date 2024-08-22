@@ -1,4 +1,5 @@
-stock,term,algorithm,rmse,rmse_norm,epoch,unit,optimizer,batch_sizeASII,short,LSTM,163.22273232263802,0.19202674390898594,50,50,rmsprop,32
+stock,term,algorithm,rmse,rmse_norm,epoch,unit,optimizer,batch_size
+ASII,short,LSTM,163.22273232263802,0.19202674390898594,50,50,rmsprop,32
 ASII,short,GRU,105.50276580362375,0.12412090094543965,50,50,rmsprop,32
 ASII,short,RNN,198.9677264128682,0.19486844786266347,50,50,rmsprop,32
 AMRT,short,LSTM,75.52492542444054,0.1870196236263771,50,50,rmsprop,32
